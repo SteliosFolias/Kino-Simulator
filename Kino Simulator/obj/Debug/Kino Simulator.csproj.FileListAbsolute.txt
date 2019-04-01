@@ -1,0 +1,32 @@
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.Form1.resources
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.Properties.Resources.resources
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.csproj.GenerateResource.cache
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.csproj.CoreCompileInputs.cache
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\bin\Debug\Kino Simulator.exe.config
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\bin\Debug\Kino Simulator.exe
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\bin\Debug\Kino Simulator.pdb
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.csproj.CopyComplete
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.exe
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.pdb
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.csprojAssemblyReference.cache
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.MainWindow.resources
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.Search.resources
+C:\Users\CubeIQ\source\repos\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.Popular.resources
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\bin\Debug\Kino Simulator.exe.config
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\bin\Debug\Kino Simulator.exe
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\bin\Debug\Kino Simulator.pdb
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\bin\Debug\Newtonsoft.Json.dll
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\bin\Debug\Newtonsoft.Json.xml
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.csprojAssemblyReference.cache
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.Form1.resources
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.MainWindow.resources
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.Popular.resources
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.Properties.Resources.resources
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino_Simulator.Search.resources
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.csproj.GenerateResource.cache
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.csproj.CoreCompileInputs.cache
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.csproj.CopyComplete
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.exe
+F:\CubeIQ\C# Projects\Kino Simulator\Kino Simulator\obj\Debug\Kino Simulator.pdb
